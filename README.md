@@ -4,4 +4,4 @@ This is the pinteresting sample app for [*One Month Rails*](http://onemonthrails
 
 by [Mattan Griffel](http://mattangriffel.com)
 
-Using this as a test app to leanr Ruby on Rails. 
+Using this as a test app to learn Ruby on Rails. 
