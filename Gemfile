@@ -28,6 +28,9 @@ gem 'spring',        group: :development
 # Bootstrap framework gem
 gem 'bootstrap-sass'
 
+# Devise login gem
+gem 'devise', '~> 3.2.4'
+
 
 group :development, :test do
 	# Use sqlite3 as the database for Active Record
